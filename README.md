@@ -556,7 +556,7 @@ Anyways, we needed to put everything together to get the flag!
 
 For reordering the cards, I just made my program send the same winning deck by encrypting the cards in that deck and sending those, mostly ignoring the received deck! Since the deck and encryption keys don't change, this luckily worked!
 
-And I made my code, which can be found [here](files/poker/hacking.js), and got the encrypted key!
+And I made my code, which can be found [here](files/poker/hacking.js), and got the encrypted flag!
 
 ![Mental Poker Image 2](images/poker2.png)
 
